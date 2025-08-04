@@ -29,9 +29,3 @@ git clone https://github.com/ayycoreo/Operating-System.git
 ```
 
 Each module's directory contains its own set of source code, and may include a dedicated `README.md` file with more specific instructions and explanations.
-
-```bash
-git clone https://github.com/Arslan8/operating-systems-course.git
-```
-
-Each module's directory contains its own set of source code, and may include a dedicated `README.md` file with more specific instructions and explanations.
