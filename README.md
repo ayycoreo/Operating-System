@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and materials used for [CMPSC 473 - Operating Systems](https://arslan8.github.io/courses/operating-systems-sp25). The course delves into fundamental concepts of operating systems, providing practical implementations and examples in C and Python.
+Fundamental concepts of operating systems, providing practical implementations and examples in C and Python.
 
 ## Course Content
 
@@ -29,7 +29,3 @@ git clone https://github.com/Arslan8/operating-systems-course.git
 ```
 
 Each module's directory contains its own set of source code, and may include a dedicated `README.md` file with more specific instructions and explanations.
-
-## Contributions
-
-This repository is primarily for educational purposes as part of an operating systems course. While direct contributions may not be the focus, feedback and suggestions are welcome. Please feel free to open an issue to report any problems or to suggest improvements to the course materials.
